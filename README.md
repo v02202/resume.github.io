@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview](/resume/JPG)](/resume/index.html)
+[![Resume Preview](/resume/preview.JPG)](/resume/index.html)
 
 **[View Live Preview](/resume/index.html)**
 
